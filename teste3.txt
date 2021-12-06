@@ -1,1 +1,2 @@
 simulando conflito de merge
+editando via Github para simular um conflito de merge
